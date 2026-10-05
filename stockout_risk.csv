@@ -1,0 +1,7 @@
+spare_id,spare_name,asset_type_link,stock_qty,min_stock,shortage_qty,unit_cost_euro,reorder_cost_euro,supplier,lead_time_days
+S001,5kW IE3 Motor,motor-5kW,1,2,1,1180.0,1180.0,MotionTech Ireland,12
+S003,5.5kW VFD Drive,VFD drive,1,2,1,980.0,980.0,ControlDrive Ireland,14
+S005,3 Pole MCC Breaker,breaker,1,2,1,420.0,420.0,ElectroSupply Cork,10
+S006,24V Inductive Sensor,sensor,2,4,2,185.0,370.0,Automation Systems Ltd,9
+S008,PLC Digital Input Card,PLC card,1,2,1,1350.0,1350.0,Industrial Automation IE,21
+S010,Flow Sensor Module,sensor,1,2,1,640.0,640.0,Process Controls Ireland,15

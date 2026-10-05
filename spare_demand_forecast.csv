@@ -1,0 +1,31 @@
+forecast_month,spare_id,spare_name,forecast_demand
+2025-09-01,S001,5kW IE3 Motor,0.67
+2025-10-01,S001,5kW IE3 Motor,0.89
+2025-11-01,S001,5kW IE3 Motor,0.52
+2025-09-01,S002,Motor Bearing Kit,0.33
+2025-10-01,S002,Motor Bearing Kit,0.11
+2025-11-01,S002,Motor Bearing Kit,0.15
+2025-09-01,S003,5.5kW VFD Drive,0.67
+2025-10-01,S003,5.5kW VFD Drive,0.56
+2025-11-01,S003,5.5kW VFD Drive,0.41
+2025-09-01,S004,VFD Cooling Fan,0.33
+2025-10-01,S004,VFD Cooling Fan,0.44
+2025-11-01,S004,VFD Cooling Fan,0.59
+2025-09-01,S005,3 Pole MCC Breaker,0.67
+2025-10-01,S005,3 Pole MCC Breaker,0.56
+2025-11-01,S005,3 Pole MCC Breaker,0.41
+2025-09-01,S006,24V Inductive Sensor,0.33
+2025-10-01,S006,24V Inductive Sensor,0.44
+2025-11-01,S006,24V Inductive Sensor,0.59
+2025-09-01,S007,Temperature Sensor PT100,0.67
+2025-10-01,S007,Temperature Sensor PT100,0.89
+2025-11-01,S007,Temperature Sensor PT100,1.19
+2025-09-01,S008,PLC Digital Input Card,0.33
+2025-10-01,S008,PLC Digital Input Card,0.44
+2025-11-01,S008,PLC Digital Input Card,0.26
+2025-09-01,S009,PLC Power Supply Module,1.0
+2025-10-01,S009,PLC Power Supply Module,0.67
+2025-11-01,S009,PLC Power Supply Module,0.56
+2025-09-01,S010,Flow Sensor Module,0.0
+2025-10-01,S010,Flow Sensor Module,0.0
+2025-11-01,S010,Flow Sensor Module,0.0

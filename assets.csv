@@ -1,0 +1,11 @@
+asset_id,machine_name,equipment_type,location,criticality,install_year
+A001,Granulation Motor 01,motor-5kW,Granulation Suite,A,2019
+A002,Tablet Press Drive 01,VFD drive,Compression Suite,A,2020
+A003,Packaging MCC Breaker 01,breaker,Packaging Line 1,A,2018
+A004,Filling Line Temp Sensor 01,sensor,Aseptic Filling Suite,A,2021
+A005,HVAC PLC Card 01,PLC card,Utility Plant,A,2019
+A006,Blender Motor 01,motor-5kW,Blending Suite,B,2018
+A007,Coating Pan Drive 01,VFD drive,Coating Suite,B,2020
+A008,Warehouse Breaker 01,breaker,Raw Material Warehouse,C,2017
+A009,Purified Water Flow Sensor 01,sensor,Water Treatment Plant,A,2022
+A010,Secondary Packaging PLC 01,PLC card,Packaging Line 2,B,2021

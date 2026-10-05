@@ -1,0 +1,11 @@
+spare_id,spare_name,asset_type_link,stock_qty,min_stock,unit_cost_euro,supplier,lead_time_days
+S001,5kW IE3 Motor,motor-5kW,1,2,1180,MotionTech Ireland,12
+S002,Motor Bearing Kit,motor-5kW,6,4,145,MotionTech Ireland,5
+S003,5.5kW VFD Drive,VFD drive,1,2,980,ControlDrive Ireland,14
+S004,VFD Cooling Fan,VFD drive,3,2,125,ControlDrive Ireland,8
+S005,3 Pole MCC Breaker,breaker,1,2,420,ElectroSupply Cork,10
+S006,24V Inductive Sensor,sensor,2,4,185,Automation Systems Ltd,9
+S007,Temperature Sensor PT100,sensor,5,3,210,Process Controls Ireland,6
+S008,PLC Digital Input Card,PLC card,1,2,1350,Industrial Automation IE,21
+S009,PLC Power Supply Module,PLC card,2,1,760,Industrial Automation IE,18
+S010,Flow Sensor Module,sensor,1,2,640,Process Controls Ireland,15

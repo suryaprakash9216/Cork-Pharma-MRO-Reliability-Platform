@@ -1,0 +1,11 @@
+asset_id,machine_name,equipment_type,criticality,failures,total_downtime_hours,estimated_uptime_hours,MTBF_hours,MTTR_hours
+A001,Granulation Motor 01,motor-5kW,A,11,58.3,4741.7,431.06,5.3
+A002,Tablet Press Drive 01,VFD drive,A,12,65.8,4734.2,394.52,5.48
+A003,Packaging MCC Breaker 01,breaker,A,9,47.9,4752.1,528.01,5.32
+A004,Filling Line Temp Sensor 01,sensor,A,11,73.7,4726.3,429.66,6.7
+A005,HVAC PLC Card 01,PLC card,A,6,42.6,4757.4,792.9,7.1
+A006,Blender Motor 01,motor-5kW,B,11,68.6,4731.4,430.13,6.24
+A007,Coating Pan Drive 01,VFD drive,B,19,124.5,4675.5,246.08,6.55
+A008,Warehouse Breaker 01,breaker,C,13,89.0,4711.0,362.38,6.85
+A009,Purified Water Flow Sensor 01,sensor,A,12,66.1,4733.9,394.49,5.51
+A010,Secondary Packaging PLC 01,PLC card,B,16,80.1,4719.9,294.99,5.01
