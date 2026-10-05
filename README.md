@@ -164,7 +164,7 @@ Key KPIs:
 * Critical A Assets: **6**
 * Simulated Reorder Exposure: **€4,940**
 
-![Risk](screenshots/page1_risk.png)
+![Risk Overview](Screenshot%202026-10-05%20045301.png)
 
 ### Engineering Overview
 
@@ -177,7 +177,7 @@ Key KPIs:
 * Average MTTR: **6.01 hours**
 * Energy per Unit: approximately **0.04**
 
-![Engineering](screenshots/page2_engineering.png)
+![Engineering Overview](Screenshot%202026-10-05%20045152.png)
 
 ### Action Overview
 
@@ -191,7 +191,7 @@ Key KPIs:
 * Forecast Demand — Next 3 Months: **14.68**
 * Simulated Reorder Exposure: **€4,940**
 
-![Action](screenshots/page3_action.png)
+![Action Overview](Screenshot%202026-10-05%20045208.png)
 
 ---
 
